@@ -32,6 +32,10 @@ h1 {
   font-weight: bold;
 }
 
+input {
+  font-weight: bold;
+}
+
 .temp {
   font-size: 48px;
   font-weight: bold;
@@ -49,7 +53,6 @@ h1 {
 
 .img {
   font-size: 60px;
-  margin-bottom: 20px;
 }
 
 .container {
