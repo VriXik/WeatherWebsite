@@ -84,6 +84,8 @@ button:hover svg {
 }
 
 .container {
+  max-width: 90%;
+  margin-inline: auto;
   display: flex;
   justify-content: center;
   align-items: center;
